@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fuy.
+- 👋 Hi, I’m Duy, or *Fuy* as people usually say.
 - 👀 I’m interested in Blockchain development, Software development, Server-side technologies, Cybersecurity, Ethical Hacking and and Economics.
 - 🌱 I’m currently learning Blockchain programming and AI/ML.
 - 💞️ I’m looking to collaborate on everything, as I love discovering new subjects and working as a team!
