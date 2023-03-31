@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duy, or *Fuy*.
 - 👀 I’m interested in Blockchain development, Software development, Server-side technologies, Cybersecurity, Ethical Hacking and and Economics.
-- 🌱 I’m currently learning Blockchain programming and AI/ML.
+- 🌱 I’m currently learning Operations Research and Game Designing.
 - 💞️ I’m looking to collaborate on everything, as I love discovering new subjects and working as a team!
 - 📫 How to reach me: [@nhdtxdy](https://github.com/nhdtxdy) on github, or dnh434@gmail.com.
 
